@@ -8,4 +8,4 @@ This is a demo for sharing ideas around communication
 * two
 * Three
 
-### This is a good example of [my code] (https://gist.github.com/ealonsorivera/fd5ecee8cd222532dc7e046748013f6b)
+### This is a good example of [my code](https://gist.github.com/ealonsorivera/fd5ecee8cd222532dc7e046748013f6b)
